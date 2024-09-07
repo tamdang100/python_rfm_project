@@ -9,5 +9,5 @@ However, the Marketing department has not yet been able to segment each customer
 The Marketing Director has also proposed using the RFM model; however, in the past, when the company's scale was smaller, the team could calculate and classify using Excel. Currently, due to the large amount of data, they hope the Data department can develop a flow to evaluate segmentation through Python programming.
 
 
-Please see the file '[**Project 3_credit_risk_modelling.ipynb**](https://github.com/tamdang100/python_creditrisk/blob/main/Project%203_credit_risk_modelling.ipynb)' along with the '**credit_risk_dataset.csv**' datasets above.
+Please see the file '[**RFM_project.ipynb**](https://github.com/tamdang100/python_creditrisk/blob/main/Project%203_credit_risk_modelling.ipynb)' along with the '**credit_risk_dataset.csv**' datasets above.
 
