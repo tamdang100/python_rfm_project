@@ -29,7 +29,7 @@ Please see the file '[**RFM_project.ipynb**](https://github.com/tamdang100/pytho
 | New Customers         | Onboard with welcome messages and introductory offers to drive repeat purchases.                          |
 
 
-### **Which customer segment has the highest proportion? What does this indicate about the business's performance? What are the characteristics of these customer segments?**
+### * **Which customer segment has the highest proportion? What does this indicate about the business's performance? What are the characteristics of these customer segments?**
 
 **Customer Segment with the Highest Proportion:**
 
@@ -52,7 +52,7 @@ The **"Champions"** segment has the highest number of customers (832), making up
 - **Upselling and Cross-Selling Opportunities:** Leverage their loyalty by introducing new products or services tailored to their preferences.
 - **Continued Engagement:** Maintain high satisfaction to prevent them from slipping into lower-value segments like "At Risk" or "Cannot Lose Them."
 
-### **Which customer segments should the business focus on? Why? What actions should the business take?**
+### * **Which customer segments should the business focus on? Why? What actions should the business take?**
 
 
 **Customer Segments to focus on:**
