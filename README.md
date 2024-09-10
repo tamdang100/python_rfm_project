@@ -1,6 +1,6 @@
 # **Project 4 - Data-Driven Customer Segmentation: RFM Model for SuperStore**
 
-**Context:**
+## **Context:**
 
 SuperStore is a global retail company with a large number of customers. On the occasion of Christmas and New Year, the Marketing department wants to run marketing campaigns to show appreciation to the customers who have supported the company throughout the year, as well as to target potential customers who could become loyal customers.
 
@@ -12,7 +12,7 @@ The Marketing Director has also proposed using the RFM model; however, in the pa
 Please see the file '[**RFM_project.ipynb**](https://github.com/tamdang100/python_rfm_project/blob/main/RFM_project.ipynb)' along with the '**ecommerce retail.xlsx**' datasets above.
 
 
-#### **Insights and recommendations:**
+## **Insights and recommendations:**
 
 | Segment               | Insights                                                                                                  |
 |-----------------------|-----------------------------------------------------------------------------------------------------------|
